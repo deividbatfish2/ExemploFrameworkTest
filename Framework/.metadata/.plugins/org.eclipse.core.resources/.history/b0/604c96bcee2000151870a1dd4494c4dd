@@ -1,0 +1,10 @@
+package com.stta.utility;
+
+import java.io.FileInputStream;
+import java.io.FileReader;
+
+public class teste {
+	public FileInputStream imputStream;
+	public FileReader reader;
+	
+}

@@ -1,0 +1,24 @@
+2015-06-15 10:50:05,661 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 10:50:05,664 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 10:50:05,664 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-06-15 10:50:05,713 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 10:50:05,714 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 10:50:05,714 - rootLogger - INFO - SuiteOneCaseOne : Execution started.
+2015-06-15 10:50:19,396 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2015-06-15 10:50:25,069 - rootLogger - INFO - Calc Sum Test Result Is :21
+2015-06-15 10:50:25,070 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 1 as PASS In excel.
+2015-06-15 10:50:26,433 - rootLogger - INFO - Calc Sum Test Result Is :13
+2015-06-15 10:50:26,434 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 2 as PASS In excel.
+2015-06-15 10:50:28,226 - rootLogger - INFO - SuiteOneCaseOne : Reporting test case as PASS In excel.
+2015-06-15 10:50:28,294 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 10:50:28,295 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 10:50:31,313 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2015-06-15 10:50:39,919 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 10:50:39,920 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 10:50:39,921 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-06-15 10:50:39,964 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 10:50:39,964 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 10:50:42,450 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2015-06-15 10:50:47,897 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 10:50:47,897 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 10:50:49,593 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
